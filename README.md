@@ -9,7 +9,7 @@ This code uses the **Turtle** graphics module in **Python** to create a visualiz
 Ulam and Gardner emphasized the striking appearance in the spiral of prominent diagonal, horizontal, and vertical lines containing large numbers of primes. Both Ulam and Gardner noted that the existence of such prominent lines is not unexpected, as lines in the spiral correspond to quadratic polynomials, and certain such polynomials, such as Euler's **prime-generating polynomial** $$x^2 − x + 41$$, are believed to produce a high density of prime numbers. Nevertheless, the Ulam spiral is connected with major unsolved problems in number theory such as Landau's problems. In particular, no quadratic polynomial has ever been proved to generate infinitely many primes, much less to have a high asymptotic density of them, although there is a well-supported conjecture as to what that asymptotic density should be.
 
 <p align="center">
-  <img width="300" height="auto" src="Anexo/Ulam_spiral_howto_all_numbers.png">
+  <img width="300" height="auto" src="Anexo/Spiral_numbers.png">
 </p>
 
 ## Code
