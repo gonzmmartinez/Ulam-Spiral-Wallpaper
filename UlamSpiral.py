@@ -24,11 +24,11 @@ for i in range(1, 3000+1):
         prime = False
 
     if prime:
-        turtle.dot(7, 'white') # if the number is prime, the dot is bigger
+        turtle.dot(6, 'white') # if the number is prime, the dot is bigger
     else:
-        turtle.dot(3, 'white') # if the numer is not prime, the dot is smaller
+        turtle.dot(2, 'white') # if the numer is not prime, the dot is smaller
 
-    turtle.forward(size+0.7*i) # a small increase in the distance between the placed point and the previous one
+    turtle.forward(size+0.2*i) # a small increase in the distance between the placed point and the previous one
     turtle.left(35) # a 35 dg turn for making the spiral effect
 
 cv = turtle.getcanvas()
